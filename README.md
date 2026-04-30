@@ -22,6 +22,9 @@
   </tr>
 </table>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EddieDavison92&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<table>
+  <tr>
+    <td><img src="./profile-summary-card-output/github_dark/productive-time.svg" /></td>
+    <td><img src="./profile-summary-card-output/github_dark/most-commit-language.svg" /></td>
+  </tr>
+</table>
