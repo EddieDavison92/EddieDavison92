@@ -9,20 +9,9 @@
 
 ### Featured projects
 
-<table>
-  <tr>
-    <td><a href="https://github.com/wnl-icb-analytics/dbt-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wnl-icb-analytics&repo=dbt-analytics&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/wnl-icb-analytics/dbt-OLIDS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wnl-icb-analytics&repo=dbt-OLIDS&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/wnl-icb-analytics/snowflake-ontoserver-api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wnl-icb-analytics&repo=snowflake-ontoserver-api&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/EddieDavison92/cvdprevent-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EddieDavison92&repo=cvdprevent-app&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-</table>
+<a href="https://github.com/wnl-icb-analytics/dbt-analytics"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wnl-icb-analytics&repo=dbt-analytics&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/wnl-icb-analytics/dbt-OLIDS"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wnl-icb-analytics&repo=dbt-OLIDS&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/wnl-icb-analytics/snowflake-ontoserver-api"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=wnl-icb-analytics&repo=snowflake-ontoserver-api&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/EddieDavison92/cvdprevent-app"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=EddieDavison92&repo=cvdprevent-app&theme=tokyonight&hide_border=true" /></a>
 
-<table>
-  <tr>
-    <td><img src="./profile-summary-card-output/github_dark/4-productive-time.svg" /></td>
-    <td><img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" /></td>
-  </tr>
-</table>
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
