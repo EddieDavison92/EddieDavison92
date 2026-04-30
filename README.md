@@ -2,10 +2,6 @@
 
 <p align="center">Analytics Engineering Lead @ West and North London ICB (NHS)</p>
 
-<p align="center">
-  <a href="https://github.com/EddieDavison92"><img src="https://komarev.com/ghpvc/?username=EddieDavison92&style=flat-square&color=blue" alt="profile views"/></a>
-</p>
-
 ### Stack
 
 **Data**
@@ -47,6 +43,9 @@
   </a>
 </p>
 <p>
+  <a href="https://github.com/wnl-icb-analytics/snowflake-ontoserver-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wnl-icb-analytics&repo=snowflake-ontoserver-api&theme=tokyonight&hide_border=true" />
+  </a>
   <a href="https://github.com/EddieDavison92/cvdprevent-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=EddieDavison92&repo=cvdprevent-app&theme=tokyonight&hide_border=true" />
   </a>
