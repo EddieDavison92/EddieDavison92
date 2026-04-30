@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Eddie 👋</h1>
 
+<p align="center">Analytics Engineering Lead @ West and North London ICB (NHS)</p>
+
 <p align="center">
   <a href="https://github.com/EddieDavison92"><img src="https://komarev.com/ghpvc/?username=EddieDavison92&style=flat-square&color=blue" alt="profile views"/></a>
 </p>
@@ -7,7 +9,14 @@
 ### Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,python,nodejs,postgres,docker,git,vscode,bash" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,vscode,bash,docker" />
 </p>
 
 ### Stats
