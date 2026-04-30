@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Eddie 👋</h1>
-
-<p align="center">Analytics Engineering Lead @ West and North London ICB (NHS)</p>
+### Eddie Davison — Analytics Engineering Lead @ WNL ICB (NHS)
 
 ### Stats
 
@@ -24,7 +22,7 @@
 
 <table>
   <tr>
-    <td><img src="./profile-summary-card-output/github_dark/productive-time.svg" /></td>
-    <td><img src="./profile-summary-card-output/github_dark/most-commit-language.svg" /></td>
+    <td><img src="./profile-summary-card-output/github_dark/4-productive-time.svg" /></td>
+    <td><img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" /></td>
   </tr>
 </table>
