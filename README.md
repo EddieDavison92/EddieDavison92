@@ -1,12 +1,5 @@
 ### Eddie Davison — Analytics Engineering Lead @ WNL ICB (NHS)
 
-### Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EddieDavison92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=EddieDavison92&theme=tokyonight&hide_border=true" />
-</p>
-
 ### Featured projects
 
 <a href="https://github.com/wnl-icb-analytics/dbt-analytics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wnl-icb-analytics&repo=dbt-analytics&theme=tokyonight&hide_border=true&card_width=440" /></a>
