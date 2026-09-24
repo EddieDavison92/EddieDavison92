@@ -16,7 +16,3 @@ records (OLIDS) and clinical terminology. Outside work I build free tools on NHS
 ### Clinical terminology
 
 [snomed-ecl-engine](https://github.com/EddieDavison92/snomed-ecl-engine) is a fast SNOMED CT ECL engine in Rust.
-
-```sh
-brew install eddiedavison92/tap/snomed-ecl-engine
-```
