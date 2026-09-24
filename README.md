@@ -13,3 +13,5 @@ records (OLIDS) and clinical terminology. Outside work I build free tools on NHS
 - [dbt-analytics](https://github.com/wnl-icb-analytics/dbt-analytics): commissioning and population health models for WNL
 - [dbt-OLIDS](https://github.com/wnl-icb-analytics/dbt-OLIDS): stable layer over the One London Integrated Data Set
 - [dbt-onboarding](https://github.com/wnl-icb-analytics/dbt-onboarding): course for SQL analysts moving to dbt
+- [EMIS XML to SNOMED](https://emis-xml-to-snomed.vercel.app): expand EMIS search exports into SNOMED code lists via the terminology server
+- [snowflake-ontoserver-api](https://github.com/wnl-icb-analytics/snowflake-ontoserver-api): query One London's Ontoserver (ECL, ValueSets) from Snowflake
