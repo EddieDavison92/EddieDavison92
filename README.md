@@ -3,11 +3,9 @@ records (OLIDS) and clinical terminology. Outside work I build free tools on NHS
 
 ### Live tools
 
-| | |
-|---|---|
-| **[ODS Tracker](https://ods-tracker.org)** | Search every NHS organisation, browse relationships, track changes since 2018 |
-| **[CVDPREVENT Explorer](https://cvdprevent-explorer.app)** | Explore the national cardiovascular disease prevention audit |
-| **[Ten Years Apart](https://ten-years-apart.uk)** | Local life expectancy gaps across the UK, from ONS data |
+- [ODS Tracker](https://ods-tracker.org): search every NHS organisation, browse relationships, track changes since 2018
+- [CVDPREVENT Explorer](https://cvdprevent-explorer.app): explore the national cardiovascular disease prevention audit
+- [Ten Years Apart](https://ten-years-apart.uk): local life expectancy gaps across the UK, from ONS data
 
 ### At work
 
