@@ -3,15 +3,15 @@ records (OLIDS) and clinical terminology. Outside work I build free tools on NHS
 
 ### Projects
 
-- [ODS Tracker](https://ods-tracker.org): search every NHS organisation, browse relationships, track changes since 2018
-- [CVDPREVENT Explorer](https://cvdprevent-explorer.app): explore the national cardiovascular disease prevention audit
-- [Ten Years Apart](https://ten-years-apart.uk): local life expectancy gaps across the UK, from ONS data
-- [snomed-ecl-engine](https://github.com/EddieDavison92/snomed-ecl-engine): fast SNOMED CT ECL engine in Rust
+- [ODS Tracker](https://ods-tracker.org): every ODS organisation in England, its PCN/ICB links and changes since 2018
+- [CVDPREVENT Explorer](https://cvdprevent-explorer.app): CVDPREVENT audit by pathway, trend and benchmark for any ICB, Sub-ICB or PCN
+- [Ten Years Apart](https://ten-years-apart.uk): data essay and atlas of UK life expectancy's post-2011 stall and deprivation gap
+- [snomed-ecl-engine](https://github.com/EddieDavison92/snomed-ecl-engine): offline SNOMED CT ECL 2.3 engine, ~1 ms a query (Rust library, CLI, npm)
 
 ### At work
 
-- [dbt-analytics](https://github.com/wnl-icb-analytics/dbt-analytics): commissioning and population health models for WNL
-- [dbt-OLIDS](https://github.com/wnl-icb-analytics/dbt-OLIDS): stable layer over the One London Integrated Data Set
-- [dbt-onboarding](https://github.com/wnl-icb-analytics/dbt-onboarding): course for SQL analysts moving to dbt
-- [EMIS XML to SNOMED](https://emis-xml-to-snomed.vercel.app): expand EMIS search exports into SNOMED code lists via the terminology server
-- [snowflake-ontoserver-api](https://github.com/wnl-icb-analytics/snowflake-ontoserver-api): query One London's Ontoserver (ECL, ValueSets) from Snowflake
+- [dbt-analytics](https://github.com/wnl-icb-analytics/dbt-analytics): WNL's models for secondary care, community, mental health and GP data
+- [dbt-OLIDS](https://github.com/wnl-icb-analytics/dbt-OLIDS): filtered, concept-mapped layers over One London GP records (OLIDS)
+- [dbt-onboarding](https://github.com/wnl-icb-analytics/dbt-onboarding): courses, handbook, model docs and changelog for dbt-analytics
+- [EMIS XML to SNOMED](https://emis-xml-to-snomed.vercel.app): turn EMIS search XML into rule logic, implementation guides and SNOMED code lists
+- [snowflake-ontoserver-api](https://github.com/wnl-icb-analytics/snowflake-ontoserver-api): SQL functions for ECL, ValueSets and FHIR search on One London's Ontoserver
